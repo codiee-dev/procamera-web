@@ -1,5 +1,5 @@
 # procamera-web
-Support, privacy policy, terms and landing page for ProCamera (iOS).
+Support, privacy policy, terms and landing page for Expo: Vintage Film Camera (iOS), formerly ProCamera.
 
 Published from `codiee-dev/procamera-web` with GitHub Pages (`main`, `/`), the same
 shape as the other codiee sites: plain HTML, one `style.css`, light and dark from the
